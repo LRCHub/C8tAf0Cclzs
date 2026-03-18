@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Butterflysoup",
+  "base_artist": "Matryoshka",
+  "createdAt": "2026-03-18T22:16:15.240000Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Butterflysoup",
+      "artist": "matryoshka",
+      "has_synced": false,
+      "path": "select/01_Butterflysoup_matryoshka.txt"
+    }
+  ]
+}
