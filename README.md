@@ -1,0 +1,33 @@
+# Matryoshka – Butterflysoup
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+One hundred times
+I've failed to get you off my mind
+So i still think of you
+I bury myself deeply underneath golden leaves
+No one can find me out
+So quiet times have passed so fast
+Feel fall comes again
+Time and time again
+I ask myself where I belong
+What I am to you
+Slowly fall asleep
+I have the same dream of you
+As if you were here
+One thousand days
+I've spent sleepless nights alone
+Afraid to fall asleep
+I'm still haunted by the past
+Tell me how to forget
+I wish you felt regret
+Now I just keep wandering
+Nothing has changed at all
+Time and time again
+I ask myself where I belong
+What I am to you
+Slowly fall asleep
+I have the same dream of you
+As if you were here
+```
